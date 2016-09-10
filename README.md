@@ -1,5 +1,4 @@
-# Getting-and-Cleaning-Data
-Getting and Cleaning Data Assignment 
+# Getting-and-Cleaning-Data Assignment 
 
  This is the course project for the Getting and Cleaning Data Coursera course.
  The R script, `run_analysis.R`, does the following:
